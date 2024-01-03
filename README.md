@@ -1,6 +1,6 @@
 # Fuzzy-Systems-Robot-Controller
 
-There are 4 python files found in this repository, all with the purpose of controlling the behavior of a small robot with 2 wheels and a LiDAR Scanner, each code instructs the robot to follows its right edge wall, avoids obstacles or combine both behaviors. 
+There are 4 python files found in this repository, all with the purpose of controlling the behavior of a small robot with 2 wheels and a LiDAR Scanner, each code instructs the robot to follows its right edge wall, avoids obstacles or combine both behaviors. There are also videos showcasing the different codes in action, except for "fc_combo" as the video was too heavy. 
 
 - Pid.py, is a a simple Proportional–integral–derivative controller (PID) tuned so the robot followed the wall located on its right edge from various starting positions. The controller can be found in the function “PIDcontroller”
 
